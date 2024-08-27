@@ -1,0 +1,1 @@
+Tinker è un REPL (Read-eval-print-loop), consente di interagire con l'applicazione grazie a una riga di comando con PHP. Consente di utilizzare i model.

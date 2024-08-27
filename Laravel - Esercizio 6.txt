@@ -1,0 +1,1 @@
+Comando per generare una nuova chiave crittografica è php artisan key:generate.

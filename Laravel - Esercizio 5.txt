@@ -1,0 +1,1 @@
+Il comando è "composer create-project laravel/laravel (nome progetto)"

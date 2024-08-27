@@ -1,0 +1,1 @@
+Composer è un gestore di pacchetti per PHP e permette di gestire progetti PHP e delle librerie.
